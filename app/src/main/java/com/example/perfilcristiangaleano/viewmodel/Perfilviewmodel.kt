@@ -14,8 +14,8 @@ class PerfilViewModel : ViewModel() {
         programa = "Ingeniería de Sistemas",
         semestre = "5° Semestre",
         edad = 20,
-        ciudad = "Fusagasugá, Cundinamarca",
-        correo = "cristian.galeano@ucundinamarca.edu.co",
+        ciudad = "Chia, Cundinamarca",
+        correo = "cristianagaleanop@ucundinamarca.edu.co",
         descripcion = "Estudiante de Ingeniería de Sistemas apasionado por el desarrollo " +
                 "de software, la tecnología y la innovación. Me gusta aprender nuevas " +
                 "herramientas y construir proyectos que generen impacto.",
